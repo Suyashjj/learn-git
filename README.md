@@ -1,2 +1,1 @@
-hello
-hi
+To Practise git
