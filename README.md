@@ -1,1 +1,1 @@
-To Practise git and github commands ..
+To Practise about git and github commands ..
