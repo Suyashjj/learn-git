@@ -1,1 +1,1 @@
-About git and guthub
+About git and github
