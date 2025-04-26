@@ -1,3 +1,3 @@
-About git and github
+About git and github commands
 ...
 .
