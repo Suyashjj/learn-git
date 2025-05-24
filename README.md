@@ -1,4 +1,2 @@
-..About git and github commands
-.....
-.
-.
+About git and github commands
+
